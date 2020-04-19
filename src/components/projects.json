@@ -1,0 +1,18 @@
+[
+    {
+       "title": "State of Happiness",
+       "h3Title": "State of Happiness",
+       "github": "https://github.com/baileyrva/stateofhappiness",
+       "deployed": "https://baileyrva.github.io/stateofhappiness/",
+       "src": "public/img/Screen Shot 2020-03-25 at 9.36.36 AM.png",
+       "description": "State of Happiness is an app where prospective movers can look at states around the nation and find out information about that state, in hopes of gathering some information the user may not usually learn before moving. Our group found that information like population size, median income, mental health, and most importantly, breweries, were aspects people would look for first. While this is a very basic version, we would aim to narrow down search results to popular cities in each state, and list additional valuable information potential movers may find to be deciding factors in their next move."
+    },
+    {
+       "title": "Nextdoor Neighbor",
+       "h3Title": "Nextdoor Neighbor",
+       "github": "https://github.com/sdreynolds110/nextdoor_neighbor",
+       "deployed": "https://glacial-eyrie-74819.herokuapp.com/",
+       "src": "public/img/Screen Shot 2020-03-25 at 9.45.53 AM.png",
+       "description": "Want to go out and support small business, but don't really know where to start? Give Nextdoor Neighbor a try! This app was created to help users search different types of local small businesses and continue to help these businesses thrive. With a limited amount of time, we were able to create a database of 12 businesses in beauty, grocery, restaurant, and retail. The ultimate goal would be to add more businesses to the database, give businesses an opportunity to add their information to the evolving database, and stretch our search area to the entire country."
+    }
+ ]
